@@ -13,7 +13,7 @@ namespace FamilyApp
 
         public FamilyPage()
         {
-            BackgroundColor = Color.Black;
+            BackgroundColor = Color.Maroon;
             
 
             var stackLayout = new StackLayout
